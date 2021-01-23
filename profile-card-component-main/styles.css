@@ -67,8 +67,14 @@ hr {
 }
 
 .attribution {
-  margin-top: 300px;
+  margin-top: 250px;
   margin-bottom: 0;
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
 
 .victor {
